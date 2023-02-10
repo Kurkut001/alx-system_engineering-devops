@@ -1,1 +1,1 @@
-solutions to shell basics covered
+solutions to shell LL covered
